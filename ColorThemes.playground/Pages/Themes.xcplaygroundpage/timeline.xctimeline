@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/karoly-nyisztor/Development/~~~OwnDevelopment/Pluralsight/creational-design-patterns-in-swift-5/ch06-factory-method/src/demo/ColorThemes.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=224&amp;EndingColumnNumber=6&amp;EndingLineNumber=8&amp;StartingColumnNumber=1&amp;StartingLineNumber=8&amp;Timestamp=586891428.5185"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/karoly-nyisztor/Development/~~~OwnDevelopment/Pluralsight/creational-design-patterns-in-swift-5/ch06-factory-method/src/demo/ColorThemes.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=342&amp;EndingColumnNumber=6&amp;EndingLineNumber=12&amp;StartingColumnNumber=1&amp;StartingLineNumber=12&amp;Timestamp=586891428.518741"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/karoly-nyisztor/Development/~~~OwnDevelopment/Pluralsight/creational-design-patterns-in-swift-5/ch06-factory-method/src/demo/ColorThemes.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=459&amp;EndingColumnNumber=6&amp;EndingLineNumber=16&amp;StartingColumnNumber=1&amp;StartingLineNumber=16&amp;Timestamp=586891428.518838"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
